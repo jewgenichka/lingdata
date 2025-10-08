@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-08T22:11:42+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/eugenia/Desktop/Учебное/Линда/ELAN/3Ryazan_eag2007.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./3Ryazan_eag2007.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa2b99a6-975d-4ae3-ab10-3aa3bb583578</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="15050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="17580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="18790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="19140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="19260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="20870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="21210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="22580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="23200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="23520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="24630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="24910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="25410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="26460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="26540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="26790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="28120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="28530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="28590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="29470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="29470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="30730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="30760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="31270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="32490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="32490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="34210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="34590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="34750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="36280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="36670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="36670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="36770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="38360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="38850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="39120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="39800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="39810"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="euggord" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="text@eag2007f" TIER_ID="text@eag2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>до небес рукой доставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>любил бежать со всех ног</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>а с утра не любил вставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>сбегал по ступенькам вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>подкарауливая друзей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>я стоял </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>в средиземном море </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>прямо возле моих дверей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>по колено / в огромном море</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>прямо / возле моих дверей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>и бежали</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="euggord" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="text@tbi2007f" TIER_ID="text@tbi2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>был маленький и не мог / до небес рукой доставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>любил бежать со всех ног</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>а с утра не любил вставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>я сбегал по ступенькам вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>подкарауливая друзей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>я стоял в средиземном море</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>прямо возле моих дверей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>по колено в огромном море</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>прямо возле моих дверей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>по рекам спускались вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>там где надо искали брод</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>и бежали полых=</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-08T21:39:12+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/eugenia/Downloads/VID_20251003_113630.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../Downloads/VID_20251003_113630.mp4"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/eugenia/Downloads/VID_20251003_113822.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../Downloads/VID_20251003_113822.mp4"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/eugenia/Downloads/VID_20251003_113937.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../Downloads/VID_20251003_113937.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:24b75066-cf50-45ff-8a3b-18229ec11ea6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="17620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19554"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="23007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25574"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="27044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="27044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="28100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="29137"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="29579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="29849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="31007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="31007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="32978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="33705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="36258"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="36624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="37288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="37314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="38579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="39354"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="39376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="39915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="40849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="41103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="41306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="42170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="42937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="43956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="44125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="45125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="47771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="49151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50782"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="55509"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="56247"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="euggord" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="text@eag2007f" TIER_ID="text@eag2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>так / я тоже включаю да?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>пошло вроде</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>а я / должна на нее смотреть?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> даже слов не понимаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>возле своих друзей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>с / топок</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>ту ду ту / ту ту / ту ту</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>энэнэнэ / нэнэнэ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>улицы выглядят что-то там</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="euggord" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="text@tbi2007f" TIER_ID="text@tbi2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>маленький и не мог</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>до небес / руками доставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>любил / бежать со всех ног</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>с утра / не любил вставать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>#нрзб# вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>подкарауливая #нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>и #нрзб# море</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>#нрзб# друзей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>в #нрзб# море / прямо возле т= своих друзей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>мы #нрзб# спускались вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>#нрзб# искали #нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>#нрзб# держись #нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>#нрзб# вели</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>в названии #нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>#нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>#нрзб# улицы #нрзб# вели</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
