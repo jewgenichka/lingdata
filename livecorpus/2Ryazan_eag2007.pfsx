@@ -14,7 +14,7 @@
         <String>text@eag2007f</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>41221</Long>
+        <Long>17620</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -73,7 +73,7 @@
         <Float>271.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>41221</Long>
+        <Long>16376</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <prefGroup key="BAS - WebMAUS Basic">
@@ -95,10 +95,10 @@
         <Float>0.7</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>12738</Long>
+        <Long>14059</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>15119</Long>
+        <Long>16428</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@eag2007f">

@@ -92,10 +92,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>32880</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>49646</Long>
+        <Long>3820</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@eag2007f">
